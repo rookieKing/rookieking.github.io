@@ -1,3 +1,3 @@
 # rookieking.github.io
 
-- show code https://github.com/rookieKing/show-code
+主页 https://rookieking.github.io/ or [./index.md](./index.md)
